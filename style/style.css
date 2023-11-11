@@ -1,0 +1,54 @@
+.body {
+    background-color: rgb(240, 240, 240);
+}
+
+.photoPerfume {
+    width: 630px;
+}
+
+.contenedorDeBotones {
+    display: flex;
+    justify-content: space-evenly;
+    width: 630px;
+}
+
+
+#Juana,
+#Pedro {
+    font-size: 25px;
+    border-radius: 7px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.mes {
+    display: flex;
+    justify-content: center;
+    width: 630px;
+
+}
+
+#employeeOfTheMonth {
+    margin-top: 45px;
+    font-size: 25px;
+    border-radius: 7px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+
+}
+
+#result {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    width: 630px;
+    background-color: aliceblue;
+    border: solid 1px;
+    height: 55px;
+    font-size: 25px;
+    text-align: center;
+}
